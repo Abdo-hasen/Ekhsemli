@@ -39,6 +39,21 @@
 
 ---
 
+## 👤 My Role
+
+Joined the project mid-flight as the **backend developer** responsible for:
+
+- **Frontend → Blade Migration**: Converted the entire static HTML/CSS/JS
+website into a fully dynamic Laravel Blade application with server-side
+routing, auth, and localization and dynamic content with componsents and layouts and partials.
+- **Mobile API — Phase 2**: Designed and built the cashback confirmation,
+rewards, brand rewards, coupon effectiveness, and invitation endpoints
+consumed by the iOS and Android native apps.
+- **Admitad Integration**: Built the full affiliate cashback integration
+from scratch — custom HTTP client, postback handling, and status lifecycle.
+
+---
+
 ## 🏗️ Tech Stack
 
 
@@ -126,20 +141,7 @@ is found across the full dataset.
 
 ---
 
-## 👤 My Role
 
-Joined the project mid-flight as the **backend developer** responsible for:
-
-- **Frontend → Blade Migration**: Converted the entire static HTML/CSS/JS
-website into a fully dynamic Laravel Blade application with server-side
-routing, auth, and localization and dynamic content with componsents and layouts and partials.
-- **Mobile API — Phase 2**: Designed and built the cashback confirmation,
-rewards, brand rewards, coupon effectiveness, and invitation endpoints
-consumed by the iOS and Android native apps.
-- **Admitad Integration**: Built the full affiliate cashback integration
-from scratch — custom HTTP client, postback handling, and status lifecycle.
-
----
 
 ## 📄 License
 
