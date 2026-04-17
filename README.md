@@ -59,7 +59,7 @@ from scratch — custom HTTP client, postback handling, and status lifecycle.
 
 | Layer       | Technology                                |
 | ----------- | ----------------------------------------- |
-| Backend     | Laravel 9                                 |
+| Backend     | Laravel 9 (PHP 8.1)                              |
 | Auth        | Laravel Sanctum + OTP (SMS)               |
 | Admin UI    | Blade + Yajra DataTables                  |
 | Permissions | Role-based with route mapping with spatie |
