@@ -91,7 +91,7 @@ the underlying auth layer.
 ### 2. Admitad Cashback Integration
 
 **Challenge:** Integrating with Admitad's affiliate network from scratch —  
-with diffficult documentation. The system needed to handle postback events  
+with difficult documentation. The system needed to handle postback events  
 and transition cashback records through states  
 (`waiting → pending → confirmed`) based on the network's response.
 
@@ -116,13 +116,23 @@ is found across the full dataset.
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Admin Dashboard
+
+---
+
+### 📱 Mobile App
+
+---
+
 ## 👤 My Role
 
 Joined the project mid-flight as the **backend developer** responsible for:
 
 - **Frontend → Blade Migration**: Converted the entire static HTML/CSS/JS
 website into a fully dynamic Laravel Blade application with server-side
-routing, auth, and localization.
+routing, auth, and localization and dynamic content with componsents and layouts and partials.
 - **Mobile API — Phase 2**: Designed and built the cashback confirmation,
 rewards, brand rewards, coupon effectiveness, and invitation endpoints
 consumed by the iOS and Android native apps.
