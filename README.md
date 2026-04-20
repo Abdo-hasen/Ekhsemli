@@ -131,18 +131,6 @@ is found across the full dataset.
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Admin Dashboard
-
----
-
-### 📱 Mobile App
-
----
-
-
-
 ## 📄 License
 
 Private commercial project — source shared for **portfolio purposes only**.
